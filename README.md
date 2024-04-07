@@ -1,3 +1,9 @@
+# MD-90SM Breakout PCB
+This project contains a PCB which breaks out the MD-90SM mini din 9 connector to a breadboard compatible pin header. If you're going to use my open source project you should consider sponsoring me. Thanks!
+
+- [Github Sponsor](https://github.com/sponsors/db-electronics)
+- [Pateron](https://patreon.com/dbelectronics)
+
 # Copyright and Disclaimer
 Copyright: René Richard
 
